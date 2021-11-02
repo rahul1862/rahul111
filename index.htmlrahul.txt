@@ -1,0 +1,33 @@
+html lang="en">
+      <head>
+	       <title> Rahuls website </title>
+		   <link rel="stylesheet" href="styles-float.css">
+		   
+	  </head>
+	  <body class="red">
+	  <div id="wrapper">
+	  <div class="head">
+	  <h1>Rahuls webpage<h1>
+	  
+	  </div>
+	  
+	  <div>
+	  
+	  <div class="sidebar green">
+	  <ul>
+	     <li><a href="#"> Home </a><li>
+		 <li><a href="#"> about </a><li>
+		 <li><a href="#"> cars </a><li>
+      <ul>
+	  
+	  </div>
+	  <div class="main">
+	  <img src="rahul.JPEG" alt="RahulPic">
+	  <p> rahuls website</p>
+	  
+		 
+		</div>
+    </div>
+  </body>
+ </html>
+	
